@@ -24,7 +24,7 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
    - Select NMOS and PMOS transistors from the library.
    - Construct the 6T SRAM cell with two cross-coupled inverters and access transistors.
    - Connect the wordline (WL), bitlines (BL, BLB), and power supply connections.
-
+   - 
 ### 3. Simulation:
    - Check the design for errors and proceed with simulation.
    - Launch the Analog Design Environment (ADE).
@@ -34,7 +34,6 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 ## Circuit Diagram
 
 ![Screenshot 2025-03-24 122239](https://github.com/user-attachments/assets/c22930fc-f396-4787-807d-51088ad7959e)
-
 
 
 ## 6T SRAM Truth Table
